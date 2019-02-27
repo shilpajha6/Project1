@@ -1,0 +1,12 @@
+.app-spacer {
+    flex: 1 1 auto;
+  }
+  .app-main{
+    display: inline-block;
+   top: 60%;
+   left: 50%;
+   opacity: 0.3;
+  filter: alpha(opacity=50); /* For IE8 and earlier */
+}
+
+  

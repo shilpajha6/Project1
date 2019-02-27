@@ -1,0 +1,35 @@
+.my-form{
+    min-width: 150px;
+    max-width: 500px;
+    width: 50%;
+    position:relative;
+    text-align: center;
+    display: inline-block;
+    
+  }
+   
+  .full-width {
+    width: 80%;
+    position:relative;
+    text-align: center;
+    display: inline-block;
+    
+    
+  }
+  .my-card {
+
+    border-radius: 5px;
+    background-color: rgb(46, 44, 82);
+    padding: 20px 0 30px 0;
+    display: inline-block;
+    
+     position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+
+  } 
+.gender{
+    text-align: center;
+}
